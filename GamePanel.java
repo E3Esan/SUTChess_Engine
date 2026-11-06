@@ -4,7 +4,7 @@ import javax.swing.JPanel;
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;
-
+//new comment
 //this is the game panel class, it will be added to the window and will handle the game loop and rendering
 public class GamePanel extends JPanel implements Runnable {
 
