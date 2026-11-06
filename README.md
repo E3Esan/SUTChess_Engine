@@ -7,12 +7,13 @@ A Java Swing chess game, developed for **1101093 Project in Object-Oriented Prog
 
 ## Our Team Members
 
+Sadly, Kong and Khongkha had gone into a different team but we delight to have Cake joined us!
 | Name | Responsibilities | Role |
 |------|------------------|------|
 | Pun | Coding, art | Basically Steve Jobs but nicer |
 | Nomsod | Coding, human debugger | Caffeine man (Monster Energy user) |
-| Cake | Database, UI improvement, writer | Homosepiens Sepiens |
-| Fluke | Database, UI improvement, document checking | The guy who tolerate craziness of us |
+| Cake | Database, UI improvement, writer | The Main of EQUALIITY |
+| Fluke | Database, UI improvement, document checking | The guy who tolerate craziness of us for 2 years now |
 
 Advisor: Dr. Thammasak Thianniwet ([Google Scholar](https://scholar.google.com/citations?user=BApIicMAAAAJ&hl=th))
 
