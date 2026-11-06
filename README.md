@@ -7,11 +7,14 @@ A Java Swing chess game, developed for **1101093 Project in Object-Oriented Prog
 
 ## Team
 
-| Name | Student ID | Role |
-|------|------------|------|
-| TODO | TODO | TODO |
+| Name | Responsibilities | Role |
+|------|------------------|------|
+| Pun | Coding, art | Basically Steve Jobs but nicer |
+| Nomsod | Coding, human debugger | Caffeine man (Monster Energy user) |
+| Cake | Database, UI improvement, writer | Homosepiens Sepiens |
+| Fluke | Database, UI improvement, document checking | The guy who tolerate craziness of us |
 
-Advisor: TODO
+Advisor: Dr. Thammasak Thianniwet ([Google Scholar](https://scholar.google.com/citations?user=BApIicMAAAAJ&hl=th))
 
 ## Requirements
 
