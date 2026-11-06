@@ -22,6 +22,34 @@ Advisor: Dr. Thammasak Thianniwet ([Google Scholar](https://scholar.google.com/c
 - JDK 17 or later
 - A desktop environment capable of displaying Swing windows
 
+## Development setup (VS Code)
+
+Running the project needs only a JDK. Swing ships with Java, so no external chess or UI library is required at this stage.
+
+**Recommended extensions**
+
+- [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) (Microsoft): the simplest option. It bundles the three below, plus other Java tools.
+  - Language Support for Java (Red Hat): code completion, diagnostics, navigation, and refactoring.
+  - Debugger for Java: run `Main` from VS Code and use breakpoints.
+  - Project Manager for Java: manages Java projects and their files in the editor.
+
+Use only one Java language server. Don't install Oracle's Java SE Language extension alongside Red Hat's unless you specifically need both.
+
+**Optional quality-of-life extensions**
+
+- Error Lens: shows errors and warnings inline.
+- Code Spell Checker: catches typos in comments and documentation.
+- GitLens: shows code history and authorship (useful for team work).
+
+**Not needed yet**
+
+- Maven for Java: only if the project adopts Maven for dependencies or builds.
+- Test Runner for Java: only once unit tests are added.
+
+**Troubleshooting: VS Code can't find the JDK**
+
+Extensions provide editor features but don't install or expose a JDK. If the JDK lives in an isolated environment (for example, inside a Distrobox container while VS Code runs as a Flatpak), VS Code may not detect it automatically. Point VS Code at the JDK by setting `java.jdt.ls.java.home` in your settings, or install a JDK in the same environment VS Code runs in.
+
 ## Run
 
 ```sh
